@@ -1,0 +1,16 @@
+{
+    "name": "OSK.SoundManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8d84a0b3968922e43b2bf0fad10ce3e8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

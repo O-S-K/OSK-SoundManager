@@ -1,0 +1,11 @@
+{
+  "name": "com.osk.osk-SoundManager",
+  "version": "1.0.0",
+  "displayName": "OSK-SoundManager",
+  "description": "SoundManager is a system for managing in-game audio playback, including background music and sound effects.",
+  "author": "QuyLe", 
+  "unity": "2022.3",
+  "hideInEditor": false,
+  "dependencies": {
+  }
+}
