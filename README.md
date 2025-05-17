@@ -133,6 +133,7 @@ public class Test : MonoBehaviour
     [Button]
     public void DestroyAll() => SoundManager.Instance.DestroyAll();
 }
+```
 
 ## ✅ Outstanding Features
 
